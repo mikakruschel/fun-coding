@@ -1,0 +1,23 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sudoku-solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikakruschel/sudoku-solver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikakruschel/sudoku-solver/issues"
+  },
+  "homepage": "https://github.com/mikakruschel/sudoku-solver#readme",
+  "dependencies": {
+    "prompts": "^2.3.1"
+  }
+}
