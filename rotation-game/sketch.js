@@ -11,7 +11,7 @@ let score;
 let scoreP;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight * 0.8);
+  createCanvas(450, 700);
   background(51);
 
   gravity = 9.81;

@@ -14,7 +14,7 @@ const par = {
 };
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(750, 750);
 
   generateGrid();
   createGui();
