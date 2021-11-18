@@ -16,10 +16,10 @@
   },
   "homepage": "https://github.com/mikakruschel/fun-coding#readme",
   "devDependencies": {
-    "eslint": "^7.9.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-config-p5js": "^1.0.1",
-    "eslint-plugin-import": "^2.22.0"
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-p5js": "^1.1.0",
+    "eslint-plugin-import": "^2.25.3"
   },
   "dependencies": {
     "live-server": "^1.2.1"

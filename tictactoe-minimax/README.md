@@ -2,6 +2,6 @@
 
 An implementation of Minimax Algorithm on Tic-Tac-Toe game
 
-[Code](https://github.com/mikakruschel/fun-coding/tree/master/tictactoe-minimax)
+[Code](https://github.com/mikakruschel/fun-coding/tree/main/tictactoe-minimax)
 
 ![GIF of tic-tac-toe](tictactoe.gif)
